@@ -4,7 +4,6 @@
 
 Hosted in Germany, Mailtower ensures full data sovereignty within the EU, helping you identify vulnerabilities, prevent spoofing, and protect your domains from phishing and fraud.
 
----
 
 ## 🚀 Features
 
@@ -13,7 +12,6 @@ Hosted in Germany, Mailtower ensures full data sovereignty within the EU, helpin
 - **Easy to Use:** Simple setup for any domain.
 - **Mail Header Analyzer (Open Source):** Analyze email headers directly in your browser with full privacy. No server data, fully open source. Check it out here: [Mail Header Analyzer](https://github.com/mailtower-app/email-header-analyzer)
 
----
 
 ## 📊 Benefits
 
@@ -21,7 +19,6 @@ Hosted in Germany, Mailtower ensures full data sovereignty within the EU, helpin
 - Understand what security measures are missing.
 - Get actionable recommendations to improve email security.
 
----
 
 ## 🔧 Get Started
 
