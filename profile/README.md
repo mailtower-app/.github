@@ -1,25 +1,69 @@
 # 🛡️ Mailtower
 
-**Mailtower** helps businesses secure their email communication. Developed and operated from Austria, it is designed to provide reliable and effective email security solutions for companies of all sizes.  
+**Email security monitoring for businesses.**
 
-Hosted in Germany, Mailtower ensures full data sovereignty within the EU, helping you identify vulnerabilities, prevent spoofing, and protect your domains from phishing and fraud.
+Mailtower helps businesses protect their domains and email communication against **spoofing, phishing, and email fraud**.
 
+Monitor your **SPF, DKIM, and DMARC** configuration, detect security weaknesses, and get actionable recommendations to improve your email security.
+
+👉 **[Get started with Mailtower](https://mailtower.app)**
+
+Hosted in **Germany** and developed in **Austria**, Mailtower keeps your data within the **European Union**.
 
 ## 🚀 Features
 
-- **SPF, DKIM & DMARC Monitoring:** Check your DNS records and email authentication setup.
-- **Security Alerts:** Detect misconfigured or vulnerable email settings.
-- **Easy to Use:** Simple setup for any domain.
-- **Mail Header Analyzer (Open Source):** Analyze email headers directly in your browser with full privacy. No server data, fully open source. Check it out here: [Mail Header Analyzer](https://github.com/mailtower-app/email-header-analyzer)
+### 🔐 Email Authentication
 
+Monitor the security configuration of your domains:
 
-## 📊 Benefits
+* **SPF** — Verify your authorized mail servers
+* **DKIM** — Check your email signing configuration
+* **DMARC** — Monitor your domain protection and enforcement policy
+* **DNS Security** — Detect missing or misconfigured email security records
 
-- Protect your business from spoofing, phishing, and fraud.
-- Understand what security measures are missing.
-- Get actionable recommendations to improve email security.
+### 🚨 Security Monitoring
 
+Identify weaknesses before they become a security problem.
 
-## 🔧 Get Started
+Mailtower helps you detect:
 
-Mailtower is available as a web application: [Mailtower.app](https://mailtower.app)
+* Missing or misconfigured authentication records
+* Weak or incomplete DMARC policies
+* Potential spoofing risks
+* Email security configuration issues
+
+### 💡 Actionable Recommendations
+
+Don't just find problems — understand how to fix them.
+
+Mailtower provides clear recommendations to help you improve your domain's email security without requiring deep knowledge of email infrastructure.
+
+### 📧 Mail Header Analyzer
+
+**Open-source email header analysis directly in your browser.**
+
+Analyze email headers without uploading them to a server. Processing happens locally in your browser, keeping sensitive email information private.
+
+👉 **[Mail Header Analyzer](https://github.com/mailtower-app/email-header-analyzer)**
+
+## 🎯 Why Mailtower?
+
+Email remains one of the most common entry points for phishing, impersonation, and fraud.
+
+Mailtower helps you:
+
+* 🛡️ **Protect your domain** against email spoofing
+* 🎣 **Reduce phishing risks** and domain impersonation
+* 🔍 **Identify security weaknesses** in your email configuration
+* 💡 **Get actionable recommendations** instead of just technical results
+* 🇪🇺 **Keep data within the EU**
+
+## 🌍 EU Data Sovereignty
+
+Mailtower is developed and operated from **Austria** and hosted in **Germany**.
+
+Your data remains within the **European Union**, providing a strong foundation for businesses that care about data sovereignty, privacy, and regulatory requirements.
+
+---
+
+**Mailtower — Know your email security. Protect your domain.**
